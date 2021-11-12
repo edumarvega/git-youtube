@@ -1,1 +1,1 @@
-Practuca de git
+Practica de git
